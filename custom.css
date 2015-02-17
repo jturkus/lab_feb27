@@ -1,0 +1,26 @@
+
+.item {
+	margin-left: 33%;
+}
+
+h1 {
+	font-size: 28px;
+	font-color: black;
+	font-style: Verdana;
+	font-weight: bold;
+	text-align: center;
+}
+
+p {
+	width: 250px;
+	margin-left: 40%;
+	text-align: left;
+}
+
+#login {
+	margin-right: 5%;
+}
+
+#signup {
+	margin-right: 10%;
+}
